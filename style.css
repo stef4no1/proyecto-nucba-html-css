@@ -247,14 +247,14 @@ section{
     text-transform: capitalize;
 }
 .newsletter form input[type="submit"]{
-    background: #fff;
+    background: var(--pink);
     width: 20rem;
     font-size: 1.7rem;
     border-radius: 5rem;
     cursor: pointer;
 }
 .newsletter form input[type="submit"]:hover{
-    color: var(--pink);
+    color: #fff;
 }
 
 /* Comentarios */
